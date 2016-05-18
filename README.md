@@ -8,7 +8,9 @@ Processing sketch to generate a symbolized portrait of a known man.
 
 ## 使い方
 flagsenpaiを使うにはProcessingが必要だゾ。
+
 Processingは何か画像とか作れるプログラミング環境だゾ(適当)
+
 リンク先からダウンロードして、どうぞ
 <https://processing.org/>
 
