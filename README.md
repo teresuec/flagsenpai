@@ -3,6 +3,8 @@
 # flagsenpai
 Processing sketch to generate a symbolized portrait of a man known under the codename of "THE BEAST".
 
+![flagsenpai](https://github.com/teresuec/flagsenpai/blob/master/yaju.png)
+
 ## 概要
 これは[国旗先輩](https://t.co/GaSTGmm7hT)を自動生成するプログラムです。
 
