@@ -36,7 +36,7 @@ Processingを起動してsenpai.pdeを読み込んで実行ボタンを押すと
 
 ![hexagonsenpai-high-visibility](https://pbs.twimg.com/media/Cid_FczUYAIrBIJ.jpg)
 
-**本プログラム及び出力される画像はオープンクソースです。**
+**本プログラム及び出力される画像はMURライセンスのオープンクソースです。**
 
 何でも使っていいですから！ただし申し訳ないが自作発言だけはNG。
 
